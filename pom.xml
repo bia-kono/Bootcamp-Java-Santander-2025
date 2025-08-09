@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>modulo_basico</module>
-        <module>modelo_avancado</module>
+        <module>modulo_avancado</module>
         <module>boas_praticas</module>
     </modules>
 

@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>modelo_avancado</artifactId>
+    <artifactId>modulo_avancado</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
